@@ -1,0 +1,12 @@
+.DS_Store
+/*.iml
+/*.iws
+/*.log
+/.idea
+/.settings
+/grails-monet-db-connector-*.zip
+/grails-monet-db-connector-*.zip.sha1
+/plugin.xml
+/target
+/target-eclipse
+/web-app
